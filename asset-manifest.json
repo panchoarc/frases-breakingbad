@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/frases-breakingbad/static/css/main.7624716c.chunk.css",
+    "main.js": "/frases-breakingbad/static/js/main.edb40200.chunk.js",
+    "main.js.map": "/frases-breakingbad/static/js/main.edb40200.chunk.js.map",
+    "runtime-main.js": "/frases-breakingbad/static/js/runtime-main.43d76545.js",
+    "runtime-main.js.map": "/frases-breakingbad/static/js/runtime-main.43d76545.js.map",
+    "static/js/2.9db023cc.chunk.js": "/frases-breakingbad/static/js/2.9db023cc.chunk.js",
+    "static/js/2.9db023cc.chunk.js.map": "/frases-breakingbad/static/js/2.9db023cc.chunk.js.map",
+    "index.html": "/frases-breakingbad/index.html",
+    "static/css/main.7624716c.chunk.css.map": "/frases-breakingbad/static/css/main.7624716c.chunk.css.map",
+    "static/js/2.9db023cc.chunk.js.LICENSE.txt": "/frases-breakingbad/static/js/2.9db023cc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/frases-breakingbad/static/media/bblogo.a11a5e80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43d76545.js",
+    "static/js/2.9db023cc.chunk.js",
+    "static/css/main.7624716c.chunk.css",
+    "static/js/main.edb40200.chunk.js"
+  ]
+}
